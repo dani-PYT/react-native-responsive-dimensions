@@ -1,3 +1,5 @@
+created feature 2
+
 # react-native-responsive-dimensions
 
 Responsive height, width and responsive fontSize for react native components that automatically adjust themselves based on the screen size of the device. The dimensions can be used for any components like View, Image, Text etc.
